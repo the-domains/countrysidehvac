@@ -4,7 +4,7 @@
         <description><![CDATA[CountrysideHVAC]]></description>
         <link>https://thegrid.ai/countrysidehvac/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Feb 2016 22:11:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Feb 2016 22:11:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/countrysidehvac/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Services]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/countrysidehvac/services/index.html</link>
             <guid isPermaLink="false">25f9bf3a-2876-47e9-acf9-412e32f856af</guid>
             <pubDate>Sat, 27 Feb 2016 22:11:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Countryside]]></title>
-            <description><![CDATA[<article><h1>Countryside</h1><p>Furnaces and boiler heating systems over 10 years old can cost more in repairs, maintenance and energy costs than the heating system is worth. Installing a new high efficiency furnace or boiler that meets Energy Star standards and features a variable speed blower can save approximately $70 to $300 a year.</p></article>]]></description>
-            <link>http://countrysideconditioning.com/</link>
-            <guid isPermaLink="false">7081d71a-30f4-4325-bb0c-3345e7bfa2ff</guid>
-            <pubDate>Sat, 27 Feb 2016 22:09:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
