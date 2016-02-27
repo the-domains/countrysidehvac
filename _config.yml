@@ -1,9 +1,20 @@
-layout_spectrum: 0
-typography_spectrum: 0.1348013
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.5537057
 color:
   saturation: 0.8981582
-  lightness: 0.6349952
   brandStrength: 0.906015
+  lightness: 0.6349952
   brandColors:
     - '#FFFFFF'
     - '#47716D'
@@ -11,4 +22,5 @@ color:
     - '#FAA787'
     - '#D2552E'
   rhythmicContrast: 0.912112
+layout_spectrum: 0
 name: CountrysideHVAC
