@@ -1,0 +1,14 @@
+layout_spectrum: 0
+typography_spectrum: 0.1348013
+color:
+  saturation: 0.8981582
+  lightness: 0.6349952
+  brandStrength: 0.906015
+  brandColors:
+    - '#FFFFFF'
+    - '#47716D'
+    - '#80441C'
+    - '#FAA787'
+    - '#D2552E'
+  rhythmicContrast: 0.912112
+name: CountrysideHVAC
